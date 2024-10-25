@@ -104,3 +104,12 @@
     padding: 20px 0px;
     cursor: pointer;
 }
+@media (max-widht 576px){
+    .menu .header{
+        width: 100%;
+    }
+    .menu{
+        display: none;
+    }
+
+}
